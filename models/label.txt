@@ -1,0 +1,4 @@
+Landscape_AI_Generated
+Landscape_Human_Made
+Potrait_AI_Generated
+Potrait_Human_Made
